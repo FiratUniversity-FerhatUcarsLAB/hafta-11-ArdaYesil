@@ -21,3 +21,16 @@ public class Exercise4_2 {
         }
     }
 }
+
+
+/* 2. Soru Cevap : rattle
+
+  3. Soru Cevap : 
+  ik
+   rattle 
+   ping  zoop 
+  boo -wa -ha -ha
+
+4. Soru Cevap : 15
+
+  */
